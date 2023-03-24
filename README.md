@@ -1,7 +1,7 @@
 ### Hey, I'm Baran
 
 You can reach me about the following sites
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin] : https://www.linkedin.com/in/baran-%C3%B6zbey-780875238/
 
 Here are some ideas to get you started:
 
