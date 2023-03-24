@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey, I'm Baran
 
-<!--
-**ligabeast/ligabeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can reach me about the following sites
+[linkedin]: https://linkedin.com/in/codeSTACKr
 
 Here are some ideas to get you started:
 
